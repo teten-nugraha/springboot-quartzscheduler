@@ -18,3 +18,6 @@ This is a simple Demo
 ```bash
 mvn spring-boot:run
 ```
+
+![Screenshot](postman.png)
+![Screenshot](mailtrap.png)
