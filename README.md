@@ -13,6 +13,7 @@ This is a simple Demo
 
 1. Edit your application.properties on MySQL Connection
 3. Put quartz_table.sql into your MySQL database
+4. Login into Mailtrap.io and create your inbox, paste your host, username, password into application.properties
 4. Run your app with
 ```bash
 mvn spring-boot:run
